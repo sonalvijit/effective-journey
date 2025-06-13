@@ -32,8 +32,9 @@ a{
 #header{
      position: sticky;
      top: 0;
-     padding: 12px 15px;
-     background-color: rgb(255, 255, 255, .1);
+     padding: 20px 15px;
+     /* background-color: rgb(255, 255, 255, .1); */
+     background-color: rgb(1, 1, 1, .1);
      display: flex;
      justify-content: space-around;
      align-items: center;
