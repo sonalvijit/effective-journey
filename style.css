@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Poppins;
+  font-family: "Syne Mono", monospace;
 }
 
 body {
@@ -57,11 +57,11 @@ a{
 
 /* BIO SECTION */
 
-.container p{
-     font-family: "Syne Mono", monospace;
+.container{
+     margin: 0 190px
 }
 
-h1 span{
+.bg-g{
      color:rgb(0, 180, 120);
      font-family: "Syne Mono", monospace;
 }
