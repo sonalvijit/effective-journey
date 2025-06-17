@@ -13,7 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-color: #080808;
+  background-color: #0D1117;
 }
 
 .logo_banner{
@@ -24,7 +24,7 @@ header {
      padding: 20px;
      position: sticky;
      top: 0;
-     background: rgba(2, 2, 2, 0.1);
+     background: rgba(13, 17, 23, 0.1);
      padding: 1rem;
      backdrop-filter: blur(10px);
      text-align: center;
@@ -35,12 +35,12 @@ header {
 main {
   flex: 1;
   padding: 2rem;
-  background: #080808;
+  background: #0D1117;
   color: #fff;
 }
 
 footer {
-  background: turquoise;
+  background: #112b38;
   color: white;
   text-align: center;
   padding: 20px;
@@ -103,7 +103,8 @@ a{
 
 .framework{
      color: #67b8b2;
-     background-color: #112b38;
+     background-color: #000000;
+     /* background-color: turquoise; */
      padding: 10px 15px;
      border-radius: 25px;
 }
